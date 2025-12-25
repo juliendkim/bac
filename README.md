@@ -77,7 +77,11 @@ npm run build
 - **0.03% 이상 ~ 0.08% 미만:** 면허 정지 (100일)
 - **0.08% 이상:** 면허 취소
 
-GitHub: [https://github.com/juliendkim/bac](https://github.com/juliendkim/bac)
+---
+
+## 소스코드 (Source Code)
+
+[https://github.com/juliendkim/bac](https://github.com/juliendkim/bac)
 
 ---
 

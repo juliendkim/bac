@@ -255,13 +255,22 @@ export default function App() {
                   <p className="text-[10px] text-slate-600 dark:text-slate-400 font-medium leading-relaxed font-sans">
                     본 시뮬레이션은 도로교통법 제44조 기준 위드마크 공식 기반 <strong>추정치</strong>일 뿐이며, 법적 증거로 활용될 수 없습니다.
                   </p>
+                </div>
+              </div>
+
+              <div className="flex items-start gap-3 p-3 rounded-xl bg-slate-50 dark:bg-slate-800/50 border border-slate-100 dark:border-slate-700">
+                <div className="p-2 bg-blue-100 dark:bg-blue-900/30 rounded-lg shrink-0">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-blue-600 dark:text-blue-400"><path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 6 6.02 2.2 6.02-2.2 0-3.7-3.4-6.65-7.6-8.6A13.4 13.4 0 0 0 12 0a13.4 13.4 0 0 0-.4 3.7C6.6 5.75 3.2 8.7 3.2 12.4c0 4.4 3 8.2 6 2.2a4.8 4.8 0 0 0-1 3.5v4"/><path d="M9 22v-4a4.8 4.8 0 0 1-1-3.5c-3 6-6.02 2.2-6.02-2.2 0-3.7 3.4-6.65 7.6-8.6A13.4 13.4 0 0 1 12 0a13.4 13.4 0 0 1 .4 3.7c4.8 2.05 8.2 5 8.2 8.7 0 4.4-3 8.2-6 2.2a4.8 4.8 0 0 1-1 3.5v4"/></svg>
+                </div>
+                <div className="space-y-1">
+                  <h4 className="text-[10px] font-black text-slate-400 dark:text-slate-500 uppercase tracking-widest">Source Code</h4>
                   <a 
                     href="https://github.com/juliendkim/bac" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="text-[10px] text-blue-500 hover:text-blue-600 dark:text-blue-400 dark:hover:text-blue-300 font-medium transition-colors inline-flex items-center gap-1"
                   >
-                    GitHub: https://github.com/juliendkim/bac
+                    https://github.com/juliendkim/bac
                   </a>
                 </div>
               </div>
