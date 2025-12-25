@@ -81,14 +81,13 @@ npm run build
 
 ## 개발 (Created by)
 
+- **김동주** [deekim@cu.ac.kr](mailto:deekim@cu.ac.kr)
+- 대구가톨릭대학교 컴퓨터소프트웨어학부
+
 <div align="left">
   <img src="./README/dcu.png" height="40">
   <img src="./README/com.png" height="40">
 </div>
-
-- **김동주**
-- 대구가톨릭대학교 컴퓨터소프트웨어학부
-- Email: [deekim@cu.ac.kr](mailto:deekim@cu.ac.kr)
 
 ---
 
