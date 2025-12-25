@@ -79,7 +79,7 @@ npm run build
 
 ---
 
-## 제작 (Created by)
+## 개발 (Created by)
 
 <div align="left">
   <img src="./README/dcu.png" height="40">
