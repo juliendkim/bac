@@ -34,7 +34,7 @@ This project is a web application that estimates Blood Alcohol Concentration (BA
 
 ### 1. Clone Repository
 ```bash
-git clone <repository-url>
+git clone git@github.com:juliendkim/bac.git
 cd bac
 ```
 

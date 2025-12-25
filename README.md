@@ -34,7 +34,7 @@
 
 ### 1. 저장소 복제
 ```bash
-git clone <repository-url>
+git clone git@github.com:juliendkim/bac.git
 cd bac
 ```
 
