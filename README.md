@@ -79,5 +79,13 @@ npm run build
 
 ---
 
+## 제작 (Created by)
+
+- **김동주 교수 (Prof. Dee Kim)**
+- 대구가톨릭대학교 컴퓨터소프트웨어학부 (School of Computer Software, Daegu Catholic University)
+- Email: [deekim@cu.ac.kr](mailto:deekim@cu.ac.kr)
+
+---
+
 ## 라이선스
 본 프로젝트는 MIT 라이선스 하에 배포됩니다.

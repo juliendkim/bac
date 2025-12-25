@@ -2,6 +2,7 @@
   "name": "bac",
   "private": true,
   "version": "0.0.0",
+  "author": "Prof. Dee Kim <deekim@cu.ac.kr> @ School of Computer Software, Daegu Catholic University (대구가톨릭대학교 컴퓨터소프트웨어학부 김동주 교수)",
   "type": "module",
   "scripts": {
     "dev": "vite",
