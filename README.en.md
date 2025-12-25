@@ -86,8 +86,8 @@ The static files generated in the `dist` folder can be deployed to a server.
   <img src="./README/com.png" height="40">
 </div>
 
-- **Prof. Dee Kim (김동주 교수)**
-- School of Computer Software, Daegu Catholic University (대구가톨릭대학교 컴퓨터소프트웨어학부)
+- **Dee Kim**
+- School of Computer Software, Daegu Catholic University
 - Email: [deekim@cu.ac.kr](mailto:deekim@cu.ac.kr)
 
 ---
