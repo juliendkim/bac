@@ -72,10 +72,12 @@ The static files generated in the `dist` folder can be deployed to a server.
 
 ---
 
-## Relevant Laws (Based on South Korean Road Traffic Act)
+## LEGAL NOTICE (Based on South Korean Road Traffic Act)
 
 - **0.03% ~ less than 0.08%:** License Suspension (100 days)
 - **0.08% or higher:** License Cancellation
+
+GitHub: [https://github.com/juliendkim/bac](https://github.com/juliendkim/bac)
 
 ---
 

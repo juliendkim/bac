@@ -72,10 +72,12 @@ npm run build
 
 ---
 
-## 관련 법규 (대한민국 도로교통법 기준)
+## LEGAL NOTICE (대한민국 도로교통법 기준)
 
 - **0.03% 이상 ~ 0.08% 미만:** 면허 정지 (100일)
 - **0.08% 이상:** 면허 취소
+
+GitHub: [https://github.com/juliendkim/bac](https://github.com/juliendkim/bac)
 
 ---
 

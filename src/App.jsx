@@ -253,8 +253,16 @@ export default function App() {
                 <div className="space-y-1">
                   <h4 className="text-[10px] font-black text-slate-400 dark:text-slate-500 uppercase tracking-widest">Legal Notice</h4>
                   <p className="text-[10px] text-slate-600 dark:text-slate-400 font-medium leading-relaxed font-sans">
-                    본 시뮬레이션은 도로교통법 제44조 기준 위드마크 공식 기반 <strong>추정치</strong>입니다. 개인차에 따라 실제 측정값과 다를 수 있어 법적 증거로 활용될 수 없습니다.
+                    본 시뮬레이션은 도로교통법 제44조 기준 위드마크 공식 기반 <strong>추정치</strong>일 뿐이며, 법적 증거로 활용될 수 없습니다.
                   </p>
+                  <a 
+                    href="https://github.com/juliendkim/bac" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="text-[10px] text-blue-500 hover:text-blue-600 dark:text-blue-400 dark:hover:text-blue-300 font-medium transition-colors inline-flex items-center gap-1"
+                  >
+                    GitHub: https://github.com/juliendkim/bac
+                  </a>
                 </div>
               </div>
             </div>
