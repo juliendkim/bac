@@ -1,4 +1,4 @@
-# BAC (Blood Alcohol Concentration) Calculator
+# <img src="./README/bac.svg" width="24" height="24"> BAC (Blood Alcohol Concentration) Calculator
 
 [ 한국어 ](./README.md) | [ English ](./README.en.md)
 
@@ -81,8 +81,13 @@ npm run build
 
 ## 제작 (Created by)
 
-- **김동주**
-- 대구가톨릭대학교 컴퓨터소프트웨어학부
+<div align="left">
+  <img src="./README/dcu.png" height="40">
+  <img src="./README/com.png" height="40">
+</div>
+
+- **김동주 교수 (Prof. Dee Kim)**
+- 대구가톨릭대학교 컴퓨터소프트웨어학부 (School of Computer Software, Daegu Catholic University)
 - Email: [deekim@cu.ac.kr](mailto:deekim@cu.ac.kr)
 
 ---
