@@ -81,8 +81,8 @@ npm run build
 
 ## 제작 (Created by)
 
-- **김동주 교수 (Prof. Dee Kim)**
-- 대구가톨릭대학교 컴퓨터소프트웨어학부 (School of Computer Software, Daegu Catholic University)
+- **김동주**
+- 대구가톨릭대학교 컴퓨터소프트웨어학부
 - Email: [deekim@cu.ac.kr](mailto:deekim@cu.ac.kr)
 
 ---

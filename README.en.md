@@ -81,7 +81,7 @@ The static files generated in the `dist` folder can be deployed to a server.
 
 ## Created by
 
-- **Prof. Dee Kim (김동주 교수)**
+- **Dee Kim**
 - School of Computer Software, Daegu Catholic University (대구가톨릭대학교 컴퓨터소프트웨어학부)
 - Email: [deekim@cu.ac.kr](mailto:deekim@cu.ac.kr)
 
