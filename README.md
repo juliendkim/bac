@@ -5,8 +5,11 @@
 이 프로젝트는 위드마크(Widmark) 공식을 기반으로 사용자의 성별, 체중, 음주량, 경과 시간을 입력받아 예상 혈중알코올농도(BAC)를 추정해주는 웹 애플리케이션입니다.
 
 > **⚠️ 주의사항:** 본 서비스에서 제공하는 계산 결과는 위드마크 공식에 기반한 **추정치**입니다. 개인의 체질, 음식 섭취 여부 등에 따라 실제 측정값과 다를 수 있으며, 어떠한 법적 증거로도 활용될 수 없습니다. 음주 후에는 절대로 운전대를 잡지 마세요.
+<div align="left">
+  <img src="./README/screen-wide.png" alt="wide screenshot" style="width:76%; height:auto;">
+  <img src="./README/screen-mobile.png" alt="mobile screenshot" style="width:22%; height:auto;">
+</div>
 
----
 
 ## 주요 기능
 
