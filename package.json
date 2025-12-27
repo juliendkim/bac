@@ -8,7 +8,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "scp -r dist/* moai:www/kr.ac.cu.moai/bac"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.18",
