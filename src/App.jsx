@@ -11,7 +11,7 @@ const DRINK_TYPES = {
 };
 
 export default function App() {
-  const [weight, setWeight] = useState(85);
+  const [weight, setWeight] = useState(80);
   const [gender, setGender] = useState('male');
   const [drinkKey, setDrinkKey] = useState('somaek');
   const [glassCount, setGlassCount] = useState(10);
@@ -19,7 +19,7 @@ export default function App() {
   const [hours, setHours] = useState(0);
 
   const resetData = () => {
-    setWeight(85);
+    setWeight(80);
     setGender('male');
     setGlassCount(10);
     handleDrinkChange('somaek');
