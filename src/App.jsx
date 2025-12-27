@@ -59,7 +59,7 @@ export default function App() {
     let bac = (alcoholGrams / (safeWeight * r)) * 0.1;
     const reduction = hours * 0.015;
     return Math.max(0, bac - reduction);
-  }, [weight, gender, drinkKey, glassCount, customAbv, hours, r]);
+  }, [weight, drinkKey, glassCount, customAbv, hours, r]);
 
   const getStatus = (bac) => {
     if (bac <= 0) return { label: '정상', color: 'text-green-500', bg: 'bg-green-50 dark:bg-green-900/20', border: 'border-green-100 dark:border-green-800', accent: 'bg-green-500', icon: ShieldAlert, desc: '혈중 알코올이 검출되지 않습니다.' };
@@ -84,7 +84,7 @@ export default function App() {
                 <div className="p-2 bg-slate-900 dark:bg-slate-800 rounded-xl">
                   <Beer className="text-yellow-400" size={24} />
                 </div>
-                BAC 계산기(추정)
+                Am I sober?
               </h1>
               <button 
                 onClick={resetData}
@@ -274,12 +274,12 @@ export default function App() {
                 <div className="space-y-1">
                   <h4 className="text-[10px] font-black text-slate-400 dark:text-slate-500 uppercase tracking-widest">Source Code</h4>
                   <a 
-                    href="https://github.com/juliendkim/bac" 
+                    href="https://github.com/juliendkim/am-i-sober" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="text-[10px] text-blue-500 hover:text-blue-600 dark:text-blue-400 dark:hover:text-blue-300 font-medium transition-colors inline-flex items-center gap-1"
                   >
-                    https://github.com/juliendkim/bac
+                    https://github.com/juliendkim/am-i-sober
                   </a>
                 </div>
               </div>

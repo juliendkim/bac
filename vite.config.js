@@ -13,9 +13,9 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'mask-icon.svg'],
       manifest: {
-        name: 'BAC Project',
-        short_name: 'BAC',
-        description: 'BAC Project PWA',
+        name: 'Am I sober? - BAC Calculator',
+        short_name: 'Am I sober?',
+        description: 'Am I sober? - BAC Calculator PWA',
         theme_color: '#ffffff',
         icons: [
           {

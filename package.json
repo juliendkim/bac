@@ -1,16 +1,17 @@
 {
-  "name": "bac",
+  "name": "am-i-sober",
   "private": true,
   "version": "0.0.0",
   "author": "Prof. Dee Kim <deekim@cu.ac.kr> @ School of Computer Software, Daegu Catholic University (대구가톨릭대학교 컴퓨터소프트웨어학부 김동주 교수)",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "start": "vite",
     "build": "vite build",
     "lint": "eslint .",
+    "clean": "rm -rf dist",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "scp -r dist/* moai:www/kr.ac.cu.moai/bac"
+    "deploy": "scp -r dist/* moai:www/kr.ac.cu.moai/am-i-sober"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.18",

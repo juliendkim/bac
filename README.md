@@ -1,4 +1,4 @@
-# <img src="./README/bac.svg" width="24" height="24"> BAC (Blood Alcohol Concentration) Calculator
+# <img src="./public/favicon.svg" width="24" height="24"> Am I sober? BAC (Blood Alcohol Concentration) Calculator
 
 [ 한국어 ](./README.md) | [ English ](./README.en.md)
 
@@ -37,8 +37,8 @@
 
 ### 1. 저장소 복제
 ```bash
-git clone git@github.com:juliendkim/bac.git
-cd bac
+git clone git@github.com:juliendkim/am-i-sober.git
+cd am-i-sober
 ```
 
 ### 2. 의존성 설치
@@ -48,7 +48,7 @@ npm install
 
 ### 3. 개발 서버 실행
 ```bash
-npm run dev
+npm start
 ```
 실행 후 브라우저에서 `http://localhost:5173`으로 접속합니다.
 
@@ -84,7 +84,7 @@ npm run build
 
 ## 소스코드 (Source Code)
 
-[https://github.com/juliendkim/bac](https://github.com/juliendkim/bac)
+[https://github.com/juliendkim/am-i-sober](https://github.com/juliendkim/am-i-sober)
 
 ---
 

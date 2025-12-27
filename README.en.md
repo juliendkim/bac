@@ -1,4 +1,4 @@
-# <img src="./README/bac.svg" width="24" height="24"> BAC (Blood Alcohol Concentration) Calculator
+# <img src="./README/am-i-sober.svg" width="24" height="24"> Am I sober? BAC (Blood Alcohol Concentration) Calculator
 
 [ English ](./README.en.md) | [ 한국어 ](./README.md)
 
@@ -34,8 +34,8 @@ This project is a web application that estimates Blood Alcohol Concentration (BA
 
 ### 1. Clone Repository
 ```bash
-git clone git@github.com:juliendkim/bac.git
-cd bac
+git clone git@github.com:juliendkim/am-i-sober.git
+cd am-i-sober
 ```
 
 ### 2. Install Dependencies
@@ -81,7 +81,7 @@ The static files generated in the `dist` folder can be deployed to a server.
 
 ## Source Code
 
-[https://github.com/juliendkim/bac](https://github.com/juliendkim/bac)
+[https://github.com/juliendkim/am-i-sober](https://github.com/juliendkim/am-i-sober)
 
 ---
 
